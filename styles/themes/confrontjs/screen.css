@@ -1,0 +1,43 @@
+body {
+    color: black
+}
+
+a {
+    color: #5E99D3 !important;
+}
+
+.avatar {
+    width: 200px;
+    vertical-align: middle;
+    margin: 0 50px 0 0;
+    float: left;
+}
+
+.sponsors p {
+    padding: 0 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sponsors img {
+    width: 200px;
+    max-height: 100px;
+}
+
+.slide-blank {
+    padding-top: 0;
+}
+
+.slide-blank > h1 {
+    color: #fff;
+    font-size: 60px !important;
+}
+
+.item-in-agenda {
+    padding-right: 0;
+}
+
+.item-in-agenda h2 {
+    margin-bottom: 0;
+}
