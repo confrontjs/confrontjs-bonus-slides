@@ -81,7 +81,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/tomasz-lakomy.jpg" alt=""/>
 
-## Tomasz Łakomy<br/>**Sleeping better at night**
+## .secondary-color.bold[KEYNOTE SPEAKER]<br/>Tomasz Łakomy<br/>**Sleeping better at night**
 
 <div class="clear"></div>
 
@@ -95,7 +95,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/eleftheria-batsou.jpg" alt=""/>
 
-## Eleftheria Batsou<br/>**When you think there is not time for learning or coding**
+## .primary-color.bold[SPEAKER]<br/>Eleftheria Batsou<br/>**When you think there is not time for learning or coding**
 
 <div class="clear"></div>
 
@@ -121,7 +121,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/tetiana-platonova.jpg" alt=""/>
 
-## Tetiana Platonova<br/>**The Importance of Clean Code**
+## .primary-color.bold[SPEAKER]<br/>Tetiana Platonova<br/>**The Importance of Clean Code**
 
 <div class="clear"></div>
 
@@ -135,7 +135,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/jerbi-saif.jpg" alt=""/>
 
-## Jerbi Saif<br/>**Mastering Reactive Programming with RxJS**
+## .primary-color.bold[SPEAKER]<br/>Jerbi Saif<br/>**Mastering Reactive Programming with RxJS**
 
 <div class="clear"></div>
 
@@ -161,7 +161,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/przemyslaw-zych.jpg" alt=""/>
 
-## Przemysław Zych<br/>**Should I fire my DevOps already? Build your infrastructure using TypeScript**
+## .primary-color.bold[SPEAKER]<br/>Przemysław Zych<br/>**Should I fire my DevOps already? Build your infrastructure using TypeScript**
 
 <div class="clear"></div>
 
@@ -175,7 +175,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/wojciech-jureczka.jpg" alt=""/>
 
-## Wojciech Jureczka<br/>**How to change mindset of coworkers?**
+## .primary-color.bold[SPEAKER]<br/>Wojciech Jureczka<br/>**How to change mindset of coworkers?**
 
 <div class="clear"></div>
 
@@ -201,7 +201,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/piotr-tomiak.jpeg" alt=""/>
 
-## Piotr Tomiak<br/>**How to help your editor love your Vue component library**
+## .primary-color.bold[SPEAKER]<br/>Piotr Tomiak<br/>**How to help your editor love your Vue component library**
 
 <div class="clear"></div>
 
@@ -215,7 +215,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/andrzej-mazur.jpg" alt=""/>
 
-## Andrzej Mazur<br/>**The past, present, and the future of HTML5 game development**
+## .primary-color.bold[SPEAKER]<br/>Andrzej Mazur<br/>**The past, present, and the future of HTML5 game development**
 
 <div class="clear"></div>
 
@@ -253,7 +253,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/yonatan-kra.jpg" alt=""/>
 
-## Yonatan Kra<br/>**How close is your data?**
+## .mix-color.bold[LIGHTNING TALK SPEAKER]<br/>Yonatan Kra<br/>**How close is your data?**
 
 <div class="clear"></div>
 
@@ -267,7 +267,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/elad-shechter.jpeg" alt=""/>
 
-## Elad Shechter<br/>**Mobile First? Desktop First? Basic First - A New Approach for Responsive Design**
+## .mix-color.bold[LIGHTNING TALK SPEAKER]<br/>Elad Shechter<br/>**Mobile First? Desktop First? Basic First - A New Approach for Responsive Design**
 
 <div class="clear"></div>
 
@@ -281,7 +281,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/yonatan-doron.jpg" alt=""/>
 
-## Yonatan Doron<br/>**Microinteractions: Little Things That Matter**
+## .mix-color.bold[LIGHTNING TALK SPEAKER]<br/>Yonatan Doron<br/>**Microinteractions: Little Things That Matter**
 
 <div class="clear"></div>
 
@@ -295,7 +295,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/nadia-ginalska.jpg" alt=""/>
 
-## Nadia Ginalska<br/>**The sweet allure of a full rewrite**
+## .mix-color.bold[LIGHTNING TALK SPEAKER]<br/>Nadia Ginalska<br/>**The sweet allure of a full rewrite**
 
 <div class="clear"></div>
 
@@ -309,7 +309,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/jan-salwowski.jpg" alt=""/>
 
-## Jan Salwowski<br/>**Tips for maintainable Vue code**
+## .mix-color.bold[LIGHTNING TALK SPEAKER]<br/>Jan Salwowski<br/>**Tips for maintainable Vue code**
 
 <div class="clear"></div>
 
@@ -323,11 +323,11 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/tymon-terlikiewicz.jpg" alt=""/>
 
-## Tymon Terlikiewicz<br/>**Lessons learned migrating from a monolith frontend**
+## .mix-color.bold[LIGHTNING TALK SPEAKER]<br/>Tymon Terlikiewicz<br/>**Lessons learned migrating from a monolith frontend**
 
 <div class="clear"></div>
 
-16:10 — .slim[(5min)]
+16:10 — 16:15 .slim[(5min)]
 
 ---
 
@@ -337,7 +337,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/roy-derks.jpg" alt=""/>
 
-## Roy Derks<br/>**Web applications of the future with TypeScript and GraphQL**
+## .primary-color.bold[SPEAKER]<br/>Roy Derks<br/>**Web applications of the future with TypeScript and GraphQL**
 
 <div class="clear"></div>
 
@@ -351,7 +351,7 @@ background-size: contain
 
 <img class="avatar" src="images/speakers/chris-heilmann.jpg" alt=""/>
 
-## Chris Heilmann<br/>**Into the web multiverse**
+## .secondary-color.bold[KEYNOTE SPEAKER]<br/>Chris Heilmann<br/>**Into the web multiverse**
 
 <div class="clear"></div>
 
