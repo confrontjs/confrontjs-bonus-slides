@@ -10,7 +10,6 @@ a {
     width: 200px;
     vertical-align: middle;
     margin: 0;
-    float: left;
 }
 
 .sponsors p {
@@ -40,6 +39,7 @@ a {
 
 .item-in-agenda .avatar {
     margin: 0 50px 90px 0;
+    float: left;
 }
 
 .primary-color {
